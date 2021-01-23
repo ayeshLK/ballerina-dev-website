@@ -9,7 +9,7 @@
 
 ##### Publisher Related Changes
 
-- **WebSub Publisher** related implementation is moved to `websubhub` module.
+- `websub:PublisherClient` related implementation is moved to `websubhub` module.
 
 ##### WebSub Subscriber Related Changes
 
